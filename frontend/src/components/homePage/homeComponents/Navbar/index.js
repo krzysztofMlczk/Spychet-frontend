@@ -56,7 +56,7 @@ const Navbar = ({ toggle, logout }) => {
           <NavMenu>
             <NavItem>
               <NavLinks to="download" smooth={true} duration={500} exact="true">
-                Dwnld
+                Download
               </NavLinks>
             </NavItem>
             <NavItem>
